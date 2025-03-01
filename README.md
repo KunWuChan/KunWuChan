@@ -35,19 +35,5 @@
 - **github/torvalds/linux**：[torvalds/linux](https://github.com/torvalds/linux/commits/master/?author=KunWuChan) 
 - **贡献数量**：截止2025年元旦约99个<br>
 ## 访问人数
-![Visitor Count](https://priofile-counter.glitch.me/{YOUR_USERNAME}/count.svg)
+[![HitCount](https://hits.sh/github.com/kunwuchan.svg)](https://hits.sh/github.com/kunwuchan/)
 
-## 当前时间
-北京时间: <span id="beijing-time"></span>
-纽约时间: <span id="new-york-time"></span>
-
-<script>
-  function updateTime() {
-    const now = new Date();
-    const beijingTime = now.toLocaleString("en-US", { timeZone: "Asia/Shanghai" });
-    const newYorkTime = now.toLocaleString("en-US", { timeZone: "America/New_York" });
-    document.getElementById("beijing-time").innerText = beijingTime;
-    document.getElementById("new-york-time").innerText = newYorkTime;
-  }
-  setInterval(updateTime, 1000);
-</script>
