@@ -1,5 +1,8 @@
 # 日拱一卒 久久为功
+# Welcome to My GitHub Profile
 
+[![]-badge-English](https://img.shields.io/badge/English-blue?style=flat-square)](README.md)
+[![]badge-中文](https://img.shields.io/badge/中文-red?style=flat-square)](README_cn.md)
 
 我是Kunwu.Chan，一名Linux内核开发人员。<br>
 ## 兴趣爱好
