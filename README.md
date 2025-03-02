@@ -30,8 +30,7 @@
 - **github/torvalds/linux**：在[torvalds/linux](https://github.com/torvalds/linux/commits/master/?author=KunWuChan)查看我的具体贡献
 - **贡献数量**：截止2025年元旦约99个<br>
 
-## 我关注的仓库活动
-- **[我的核心项目](https://github.com/torvalds/linux)**  
+## 我的核心项目
   ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux)
   ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=kunwuchan&repo=linux-rust)
 
