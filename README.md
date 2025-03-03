@@ -6,12 +6,12 @@
 I am Kunwu.Chan, a Linux kernel developer. <br>
 ## Hobbies
 Hiking:
-- I have traveled from south to north. When I am bored, I like to go to the mountains alone. Heavy camping and drinking tea by the river are all OK
--I went to Tiger Leaping Gorge in Yunnan in 2023, saw the narrowest part of the Yangtze River. Along the river, the majestic Haba Snow Mountain stands to the left, while the splendid Thirteen Peaks of Jade Dragon Snow Mountain can be admired to the right, with the relentless rush of the Jinsha River flowing beneath. When I climbed the 168-meter ladder using my hands and feet, I felt that my fear of heights was improved a little. The profile picture I’m using now was taken on the mountain on the Tiger Leaping Gorge Highway. I was facing the Jade Dragon Snow Mountain.
+- I have traveled from south to north. When I am bored, I like to go to the mountains alone. Heavy camping and drinking tea by the river are all OK <br>
+- I went to Tiger Leaping Gorge in Yunnan in 2023, saw the narrowest part of the Yangtze River. Along the river, the majestic Haba Snow Mountain stands to the left, while the splendid Thirteen Peaks of Jade Dragon Snow Mountain can be admired to the right, with the relentless rush of the Jinsha River flowing beneath. When I climbed the 168-meter ladder using my hands and feet, I felt that my fear of heights was improved a little. The profile picture I’m using now was taken on the mountain on the Tiger Leaping Gorge Highway. I was facing the Jade Dragon Snow Mountain.
 - Professional ability: "Primary Mountain Outdoor Instructor" of China Mountaineering Association, "Level 3 Mountain Outdoor Athlete" of China Mountaineering Association, and Mountain Eagle One-Star Outdoor Leader<br>
 
 Cycling:<br>
-- In summer and autumn, I like to ride shared bicycles from Changsha->Xiangtan<br>
+- In summer and autumn, I like to ride shared bicycles from Changsha to Xiangtan and back<br>
 
 A lover of Ming Dynasty historical novels<br>
   
