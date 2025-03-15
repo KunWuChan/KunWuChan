@@ -18,7 +18,7 @@ A lover of Ming Dynasty historical novels<br>
  
 ## Technical exchange & internal recommendation, please contact me:
 - :email: [internal recommendation](mailto:kunwu.chan@hotmail.com)
-- :email: [technical exchange](mailto:kunwu.chan@linux.dev)
+- :email: [technical explore](mailto:kunwu.chan@linux.dev)
 - [contact me by GitHub](https://github.com/contact)
 
 
